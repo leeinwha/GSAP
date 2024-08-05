@@ -11,7 +11,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 // 02. : 이미지를 순차적으로 나오기
@@ -28,7 +28,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 // 03. : 이미지를 랜덤으로 나오기
@@ -52,7 +52,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 //04. : 이미지 축소하기
@@ -72,7 +72,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 // 05. : 텍스트 애니메이션
@@ -90,7 +90,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 // 06. : 텍스트 확대하기
@@ -106,7 +106,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 //07. : 텍스트 제자리 애니메이션
@@ -127,7 +127,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 //08. : 텍스트 애니메이션
@@ -145,7 +145,7 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });
 
 // 09. : 이미지 확대하기
@@ -161,5 +161,5 @@ ScrollTrigger.create({
   scrub: true,
   pin: true,
   anticipatePin: 1,
-  markers: true
+  markers: false
 });

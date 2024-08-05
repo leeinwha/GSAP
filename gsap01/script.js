@@ -97,7 +97,7 @@ const box1 = document.querySelector('#section1 .parallax__item__img');
         end: 'bottom 20%',
         scrub: true,
         toggleClass: 'active',
-        markers: true,
+        markers: false,
         id: 'box7'
       }
     });
@@ -113,7 +113,7 @@ const box1 = document.querySelector('#section1 .parallax__item__img');
         start: 'top center',
         end: 'bottom 20%',
         scrub: true,
-        markers: true,
+        markers: false,
         // onEnter: () => {console.log('onEnter')},
         // onLeave: () => {console.log('onLeave')},
         // onEnterBack: () => {console.log('onEnterBack')},
